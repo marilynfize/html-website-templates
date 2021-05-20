@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
 
-You can use the [editor on GitHub](https://github.com/marilynfize/html-website-templates/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+   <title>
+		Welcome to My Web Page!! Learning some Html, PHP and CSS right now...
+	</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<div
+    border-top-color: black;
+    border-right-color: pink:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+</div>
+</head>
+<div
+<iframe src="https://studentspost-my.sharepoint.com/personal/marilyn_fizel_students_post_edu/_layouts/15/Doc.aspx?sourcedoc={73941892-5800-444f-9d33-c9dea77d6c96}&amp;action=embedview&amp;wdStartOn=1" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></div>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marilynfize/html-website-templates/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	<br />
+	<h3 align="center">
+		<font face="Lato" color="#FF69B4" size="6"> Marilyn Fizel</font>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="cinzel" color="#FF69B4" size="4">
+			<a href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">BLOG</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">CONTACT ME</a>
+		</font>
+	</h3>
+	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+	<h1 align="center">
+		<font face="Lato" color="#FF69B4" size="7">
+		This is a nice little page! I am adding Css to this HTML page.
+		</font>
+	</h1>
+	<h3 align="center">
+		<font face="Lato" color="#FF69B4" size="5">
+			I WORKING ON ADDING CSS AS OF NOW IT IS ONLY HTML
+		</font>
+	</h3>
+	<br />
+	<h3 align="center">
+	<a href="#">
+		<font face="Lato" color="#FF69B4">GET STARTED</font>
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#">
+		<font face="Lato" color="#FF69B4>SUBSCRIBE US</font>
+	</a>
+	</h3>
+</body>
+<mark> I am Marilyn Fizel <mark>
+</body>
+</html>
